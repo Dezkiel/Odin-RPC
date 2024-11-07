@@ -13,7 +13,7 @@ function getComputerChoice(){
             console.log("scissors")
             break;
         default:
-            console.log(rand);
+            console.log("ERROR, number was: " + rand);
     }
 };
 
